@@ -3,6 +3,10 @@
 body {
 
 background-color: hsl(212, 45%, 89%);
+min-height: 100vh; 
+display: flex; 
+align-items: center; 
+justify-content: center;
 
 }
 
@@ -13,9 +17,7 @@ main {
     width: 300px;
     height: 450px;
     border-radius: 5%;
-    margin-left: 670px;
-    margin-top: 100px;
-    margin-bottom: 20px;
+  
 }
 
 .qr-code {
