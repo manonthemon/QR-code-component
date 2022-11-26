@@ -5,6 +5,7 @@ body {
 background-color: hsl(212, 45%, 89%);
 min-height: 100vh; 
 display: flex; 
+width: 1044;
 align-items: center; 
 justify-content: center;
 
@@ -40,6 +41,7 @@ p {
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
     text-align: center;
+    font-weight: 400;
     color: hsl(220, 15%, 55%)
 
 }
